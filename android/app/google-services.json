@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "165541588081",
+    "project_id": "goboletos-1a0ef",
+    "storage_bucket": "goboletos-1a0ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165541588081:android:70c5b21edbfa4ba685bfd0",
+        "android_client_info": {
+          "package_name": "com.example.boletos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165541588081-hc7tpp13pmf783kn4hv55hrlm4i3r9el.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.boletos",
+            "certificate_hash": "aeb127ad2c2f06d38be1bb3b795d65f4ce37bbe5"
+          }
+        },
+        {
+          "client_id": "165541588081-0capacullqnf1g1773mnght38vtrq5ud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOYBBgzrkidd5Eyki3yEb0K1BwPqsqB00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165541588081-0capacullqnf1g1773mnght38vtrq5ud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
