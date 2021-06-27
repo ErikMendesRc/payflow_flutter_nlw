@@ -189,4 +189,4 @@
 ---
 
 
->Esse projeto foi desenvolvido por **[@Erik Mendes](https://www.linkedin.com/in/cledilson-programador/)**, com o instrutor **[@GabulDev](https://www.linkedin.com/in/gabuldev/)**, na #NextLevelWeek05 da **[Rocketseat](https://rocketseat.com.br/)**.<br>
+>Esse projeto foi desenvolvido por **[@Erik Mendes](https://www.linkedin.com/in/devmendesrc/)**, com o instrutor **[@GabulDev](https://www.linkedin.com/in/gabuldev/)**, na #NextLevelWeek05 da **[Rocketseat](https://rocketseat.com.br/)**.<br>
