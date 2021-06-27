@@ -154,7 +154,7 @@
    Primeiro, configure corretamente o ambiente de desenvolvimento em Flutter na sua máruina, veja em: https://flutter.dev/docs/get-started/install
    
    - Clone esse repositório:
-   $ git clone https://github.com/CledilsonWisp/payFlow.git payflow
+   $ git clonehttps://github.com/ErikMendesRc/payflow_flutter_nlw.git payflow
 
    - Entre no diretório:
    $ cd payflow
