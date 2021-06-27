@@ -35,7 +35,7 @@
 
    [![Linkedin Badge](https://img.shields.io/static/v1?label=&message=Erik%20Mendes&color=0000FF&style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/devmendesrc/)
 
-   [![issues](https://img.shields.io/github/issues/ErikMendesRC/payflow_flutter_nlw
+   [![issues](https://github.com/ErikMendesRc/payflow_flutter_nlw/blob/main
 )]()
    [![issues](https://img.shields.io/github/stars/ErikMendesRC/payflow_flutter_nlw
 )]()
